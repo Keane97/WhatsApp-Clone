@@ -1,3 +1,7 @@
+### THIS PROJECT IS THE RESULT OF FOLLOWING THE BELOW YOUTUBE VIDEO BY CleverProgrammer 
+[Tutorial Video Link](https://www.youtube.com/watch?v=pUxrDcITyjg&list=PLvmRwCtZ6YKRBCjKGNEbmOd816fgvptZc&index=2)
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
